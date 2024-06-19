@@ -5,7 +5,7 @@ import math
 
 def get_radius(dB1, dB2):
     """
-    return radius(distance) from center
+    calculate radius(distance) from center
     ~~~~~~
     dB1: dacibel from standard point
     dB2: dacibel from target point
